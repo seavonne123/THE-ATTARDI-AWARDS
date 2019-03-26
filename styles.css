@@ -1,0 +1,22 @@
+body{
+    background-color:BLUE;
+}
+
+img {
+border:20px DOTTED BLACK;
+}
+p { 
+    background-color:white;
+}
+h1{
+    COLOR:YELLOW;
+    }
+H2{
+    COLOR:PINK;
+    }
+H3{
+    COLOR:ORANGE;
+    }
+H4{
+    COLOR:#33cccc;
+}
